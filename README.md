@@ -1,6 +1,6 @@
 # Aluraplus1
 
-<a href="https://rodrigoafonsobarboza.github.io/projeto-social/">Visualizar meu repositório</a>
+<a href="https://rodrigoafonsobarboza.github.io/aluraplus1/">Visualizar meu repositório</a>
 
 ##
 
