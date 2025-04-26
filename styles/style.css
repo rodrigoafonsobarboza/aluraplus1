@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("https://rodrigoafonsobarboza.github.io/aluraplus/assets/background.png");
+    background-image: url("../assets/background.png");
 
     background-repeat: no-repeat;
     background-size: contain;
