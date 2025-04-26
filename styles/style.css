@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("../assets/plataformas.png");
+  
     background-image: url("/assets/plataformas.png");
 
     background-repeat: no-repeat;
